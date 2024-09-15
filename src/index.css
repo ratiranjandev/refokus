@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.heading{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgykod0tKRNESDZ67X5YPZxGfWnA8HRFUgeg&s');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+
