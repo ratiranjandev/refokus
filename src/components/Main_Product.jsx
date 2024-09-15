@@ -14,10 +14,10 @@ const Main_Product = ({ data, mover, index }) => {
         </div>
         <div className="relative flex flex-col items-end justify-between gap-5 px-6 py-3">
           <p className="text-right font-semibold text-1xl w-[400px]">
-            In Tailwind CSS, you can create text masks using the mask utilities.
-            Text masking is a technique that allows you to display text using an
-            image to define its shape. Here's how you can achieve text masking
-            in Tailwind
+            Happy the Boss In Tailwind CSS, you can create text masks using the
+            mask utilities. Text masking is a technique that allows you to
+            display text using an image to define its shape. Here's how you can
+            achieve text masking in Tailwind
           </p>
           {data.first && (
             <button className="bg-cyan-600 w-fit px-4 py-2 rounded-lg text-lg font-semibold">

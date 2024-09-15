@@ -16,10 +16,10 @@ const Produwwct = ({ data }) => {
         className="inner transition-all relative flex flex-col items-center justify-center max-w-screen-xl mx-auto border-[1px] border-zinc-500 p-2 h-[20rem]"
       >
         <h1 className="z-10 mix-blend-difference text-[2vw] font-semibold">
-          Sample Heading
+          Sample Headings
         </h1>
         <h1 className="z-10 mix-blend-difference text-[4vw] font-semibold">
-          Products List
+          Products Lists
         </h1>
         <img
           className={`opacity-${opacity} fixed w-[250px] h-[250px] object-cover object-center rounded-full`}
